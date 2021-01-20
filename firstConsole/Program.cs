@@ -9,6 +9,7 @@ namespace firstConsole
             Console.WriteLine("задание 0");
             Console.WriteLine("Hello World!");
             Console.WriteLine();
+            Console.WriteLine("будьте осторожны, вам придется что-то вводить...");
 
             Console.WriteLine("задание 1");
             double a, b;
